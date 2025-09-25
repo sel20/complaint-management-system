@@ -91,8 +91,6 @@ Dashboard Flow 3: <img width="1917" height="919" alt="image" src="https://github
 4. Registering Page: <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/b7c1a8c1-c9b6-4149-a9c2-00d10d12e1f6" />
 
 
-To add visuals:
-
 ## 5. Contributing
 
 Feel free to fork this repository, submit issues, or create pull requests.
