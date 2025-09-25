@@ -82,9 +82,9 @@ A Django-based web application for submitting and tracking complaints, built wit
 
 1. Login Page: <img width="1914" height="970" alt="image" src="https://github.com/user-attachments/assets/800d43c6-5352-407c-8900-cfddc989657a" />
 
-2. Dashboard: <img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/c982bc63-2b6c-4f85-9e51-18b80f05a754" />
-<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/17f0e277-8fd9-46f3-968b-2e2b7d900a41" />
-<img width="1917" height="919" alt="image" src="https://github.com/user-attachments/assets/8e48a251-f42b-49aa-b23a-4e4e80d95c3c" />
+2. Dashboard Flow 1: <img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/c982bc63-2b6c-4f85-9e51-18b80f05a754" />
+Dashboard Flow 2: <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/17f0e277-8fd9-46f3-968b-2e2b7d900a41" />
+Dashboard Flow 3: <img width="1917" height="919" alt="image" src="https://github.com/user-attachments/assets/8e48a251-f42b-49aa-b23a-4e4e80d95c3c" />
 
 3. Submit Complaint: <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/b48a6c44-388a-47d9-8c85-6fa47ff2d97e" />
 
